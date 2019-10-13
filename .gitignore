@@ -1,5 +1,7 @@
-/ivyrepo/
-/project/project/
-/project/target/
-/sbtboot/
-/target/
+ivyrepo/
+project/project/
+project/target/
+sbtboot/
+target/
+.idea/
+.idea_modules/
